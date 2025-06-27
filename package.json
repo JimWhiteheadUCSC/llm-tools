@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@langchain/core": "^0.3.61",
+    "@langchain/openai": "^0.5.16",
+    "langchain": "^0.3.29",
+    "zod": "^3.25.67"
+  },
+  "name": "llm-tools",
+  "version": "1.0.0",
+  "main": "langchain-tool-use.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "description": ""
+}
